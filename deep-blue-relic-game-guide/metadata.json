@@ -1,6 +1,0 @@
-{
-  "name": "Deep Blue Relic - 公式ゲーム解説ガイド",
-  "description": "沈んだ文明の遺物と形見を求めて深海へ潜る海洋探索ゲーム『Deep Blue Relic』の初心者向け公式Web解説サイト＆体験シミュレーター",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
